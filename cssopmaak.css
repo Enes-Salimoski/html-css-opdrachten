@@ -1,0 +1,106 @@
+
+.header1{
+color: orange;
+display: flex;
+justify-content: center;
+}
+
+.header12{
+    color: blue;
+}
+
+
+.header2{
+color:orange;
+display: flex;
+justify-content: center;
+}
+
+.header22{
+color: blue;
+}
+
+
+.header3{
+color:orange;
+display: flex;
+justify-content: center;
+}
+
+.header32{
+color: blue;
+}
+
+
+
+body{
+background-color: rgb(12, 12, 12);
+
+font-size: 250%;
+}
+
+.text1{
+    border-style: solid;
+    border-image: linear-gradient(
+        to right,
+        orange,
+        blue
+    )1;
+   
+   
+    color: orange;   }
+
+
+    .text12{
+    color: blue;
+}
+
+
+
+
+a{
+color: orange;
+}
+
+.kleur1{
+    width: auto;
+    height: 250%;
+
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(
+        to right,
+        orange 0%,
+        orange 50%,
+        blue 50%,
+        blue 100%
+    );
+}
+
+
+.text2{
+    color: orange;
+    border-style: solid;
+    border-image: linear-gradient(
+        to right,
+        orange,
+        blue
+    )1;
+}
+
+.text22{
+    color: blue;
+}
+
+.text23{
+    color: blue;
+}
+
+.text24{
+    color: blue;
+}
+
+.text25{
+    color: blue;
+}
+
